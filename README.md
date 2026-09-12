@@ -37,8 +37,8 @@ This mode is intended for VR video players that support chroma key transparency.
 
 Examples:
 
-- R800ZZbrowser
-- r800zzvrplayer
+- [R800ZZbrowser for PICO/Meta](https://vr180g.com/browser/browser.php?l=en)
+- [r800zzvrplayer for PICO 4 Ultra/PICO4](https://vr180g.com/pico/vrplayer.php?l=en)
 
 Green-screen conversion is usually much faster than WebM VP9 Alpha conversion.
 
@@ -71,12 +71,13 @@ The WebM VP9 Alpha output created by this tool is currently encoded with FFmpeg 
 
 For Green-screen MP4, examples of VR players with chroma-key functionality include:
 
-- R800ZZbrowser
-- r800zzvrplayer
+- [R800ZZbrowser for PICO/Meta](https://vr180g.com/browser/browser.php?l=en)
+- [r800zzvrplayer for PICO 4 Ultra/PICO4](https://vr180g.com/pico/vrplayer.php?l=en)
 
 For WebM VP9 Alpha, the VR player I have confirmed is:
 
-- **r800zzvrplayer 0.4 or later**
+- **[r800zzvrplayer 4.0 or later](https://vr180g.com/pico/vrplayer.php?l=en)
+**
 
 At the time of writing, I have not been able to confirm another VR video player that directly plays WebM VP9 video with its alpha channel as VR transparency.
 
