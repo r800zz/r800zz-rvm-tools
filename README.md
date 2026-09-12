@@ -11,6 +11,16 @@ Two output modes are supported:
 
 A high-performance GPU is not required. The tool can run on CPU only, although GPU acceleration can make RVM processing much faster.
 
+## Quick Usage Guide
+
+- Prerequisites: Install Python and FFmpeg.
+
+- For the first run, execute `install_python_packages_NVIDIA.bat`.
+
+- To convert a video to a green-background video, drag and drop the video file onto `R800ZZ_Make_Green_MP4_NVIDIA.bat`.
+
+- To convert a video to Alpha transparency (WebM VP9), drag and drop the video file onto `R800ZZ_Make_WebM_Alpha_NVIDIA.bat`.
+
 ## What is RVM?
 
 RVM stands for **Robust Video Matting**.
