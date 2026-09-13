@@ -88,7 +88,7 @@ Para MP4 con fondo verde, algunos ejemplos de reproductores VR con función de c
 
 Para WebM VP9 Alpha, el reproductor VR que he confirmado es:
 
-- **[r800zzvrplayer 4.0 o posterior](https://vr180g.com/pico/vrplayer.php?l=es)**
+- **[r800zzvrplayer 0.4 o posterior](https://vr180g.com/pico/vrplayer.php?l=es)**
 
 En el momento de escribir esto, no he podido confirmar ningún otro reproductor de vídeo VR que reproduzca directamente vídeo WebM VP9 utilizando su canal alfa como transparencia VR.
 
