@@ -88,7 +88,7 @@ VP9はWebM Projectのオープンな動画コーデックで、WebMはアルフ�
 
 WebM VP9 Alphaについて、私が動作を確認しているVRプレイヤーは次のものです。
 
-- **[r800zzvrplayer 4.0以降](https://vr180g.com/pico/vrplayer.php?l=jp)**
+- **[r800zzvrplayer 0.4以降](https://vr180g.com/pico/vrplayer.php?l=jp)**
 
 執筆時点では、WebM VP9動画のアルファチャンネルをVR透過として直接再生する別のVR動画プレイヤーを確認できていません。
 
