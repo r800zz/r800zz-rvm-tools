@@ -88,7 +88,7 @@ VP9 是 WebM Project 的开放视频编解码器，WebM 支持带 Alpha 通道�
 
 对于 WebM VP9 Alpha，我已确认支持的 VR 播放器是：
 
-- **[r800zzvrplayer 4.0 或更高版本](https://vr180g.com/pico/vrplayer.php?l=cn)**
+- **[r800zzvrplayer 0.4 或更高版本](https://vr180g.com/pico/vrplayer.php?l=cn)**
 
 截至本文编写时，我尚未确认有其他 VR 视频播放器能够直接播放 WebM VP9 视频，并将其 Alpha 通道作为 VR 透明度使用。
 
