@@ -88,7 +88,7 @@ For Green-screen MP4, examples of VR players with chroma-key functionality inclu
 
 For WebM VP9 Alpha, the VR player I have confirmed is:
 
-- **[r800zzvrplayer 4.0 or later](https://vr180g.com/pico/vrplayer.php?l=en)
+- **[r800zzvrplayer 0.4 or later](https://vr180g.com/pico/vrplayer.php?l=en)
 **
 
 At the time of writing, I have not been able to confirm another VR video player that directly plays WebM VP9 video with its alpha channel as VR transparency.
