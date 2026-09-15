@@ -88,7 +88,7 @@ VP9은 WebM Project의 오픈 비디오 코덱이며 WebM은 알파 채널 동�
 
 WebM VP9 Alpha의 경우, 제가 동작을 확인한 VR 플레이어는 다음과 같습니다.
 
-- **[r800zzvrplayer 0.4 이상](https://vr180g.com/pico/vrplayer.php?l=kr)**
+- **[r800zzvrplayer 0.5 이상](https://vr180g.com/pico/vrplayer.php?l=kr)**
 
 이 문서를 작성하는 시점에서는 WebM VP9 동영상의 알파 채널을 VR 투명도로 직접 사용하는 다른 VR 동영상 플레이어를 확인하지 못했습니다.
 
