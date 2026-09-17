@@ -18,6 +18,7 @@ A high-performance GPU is not required. The tool can run on CPU only, although G
 ### September 17, 2026
 
 * Fix background rendering in alpha mode.
+* Add Bash scripts for Unix-like operating systems (Linux, WSL, macOS).
 
 
 ## Quick Usage Guide
