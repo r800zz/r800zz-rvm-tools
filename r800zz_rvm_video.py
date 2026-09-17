@@ -305,7 +305,7 @@ def convert(args):
                 pha = pha.clamp_(0.0, 1.0)
 
                 if args.mode == "alpha":
-                    out = torch.cat((fgr, pha), dim=2)
+                    out = torch.cat((src, pha), dim=2) #bugfix September 17, 2026 Fixed incorrect background rendering.
                 else:
                     green = torch.tensor(
                         [0.0, 1.0, 0.0],
