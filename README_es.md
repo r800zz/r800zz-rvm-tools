@@ -13,6 +13,13 @@ Se admiten dos modos de salida:
 
 No es obligatoria una GPU de alto rendimiento. La herramienta puede funcionar solo con CPU, aunque la aceleración por GPU puede hacer que el procesamiento con RVM sea mucho más rápido.
 
+## Historial de actualizaciones
+
+### 17 de septiembre de 2026
+
+* Corregida la visualización del fondo en el modo alfa.
+
+
 ## Guía rápida de uso
 
 - Requisitos previos: instale Python y FFmpeg.
