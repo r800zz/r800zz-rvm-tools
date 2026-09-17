@@ -13,6 +13,13 @@ Two output modes are supported:
 
 A high-performance GPU is not required. The tool can run on CPU only, although GPU acceleration can make RVM processing much faster.
 
+## Update History
+
+### September 17, 2026
+
+* Fix background rendering in alpha mode.
+
+
 ## Quick Usage Guide
 
 - Prerequisites: Install Python and FFmpeg.
