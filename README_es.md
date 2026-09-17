@@ -18,6 +18,7 @@ No es obligatoria una GPU de alto rendimiento. La herramienta puede funcionar so
 ### 17 de septiembre de 2026
 
 * Corregida la visualización del fondo en el modo alfa.
+* Añadidos scripts de Bash para sistemas operativos tipo Unix (Linux, WSL, macOS).
 
 
 ## Guía rápida de uso
