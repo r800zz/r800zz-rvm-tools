@@ -23,7 +23,7 @@ R800ZZ RVM Tools は、通常の動画ファイルを背景透過に適した動
 * Unix系OS（Linux、WSL、macOS）向けのBashスクリプトを追加。
 
 
-## 実行方法の簡易説明
+## 実行方法の簡易説明 (Windows)
 
 - 前提として Python と FFmpeg をインストールしてください。
 
