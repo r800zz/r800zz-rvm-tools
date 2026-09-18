@@ -6,6 +6,8 @@ R800ZZ RVM Tools는 일반 동영상 파일을 배경 투명 처리에 적합한
 
 사람 전경 추출에는 **Robust Video Matting (RVM)**을 사용하고, 동영상 디코딩과 인코딩에는 **FFmpeg**를 사용합니다.
 
+[README , Unix 계열 운영 체제(Linux , WSL , macOS)](README_sh_ko.md)
+
 두 가지 출력 모드를 지원합니다.
 
 - **그린 배경 MP4** — 추출한 사람을 순수한 녹색 배경 위에 합성한 H.264 MP4를 생성합니다.
