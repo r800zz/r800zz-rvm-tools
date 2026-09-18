@@ -23,7 +23,7 @@ No es obligatoria una GPU de alto rendimiento. La herramienta puede funcionar so
 * Añadidos scripts de Bash para sistemas operativos tipo Unix (Linux, WSL, macOS).
 
 
-## Guía rápida de uso
+## Guía rápida de uso (Windows)
 
 - Requisitos previos: instale Python y FFmpeg.
 
