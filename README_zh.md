@@ -13,6 +13,8 @@ R800ZZ RVM Tools 可将普通视频文件转换为适合背景透明显示的视
 
 不要求使用高性能 GPU。该工具可以仅使用 CPU 运行，不过使用 GPU 加速可以大幅提高 RVM 处理速度。
 
+[README , 于类 Unix 操作系统(Linux , WSL , macOS)](README_sh_zh.md)
+
 ## 更新历史
 
 ### 2026年9月17日
