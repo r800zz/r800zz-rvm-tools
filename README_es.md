@@ -13,6 +13,8 @@ Se admiten dos modos de salida:
 
 No es obligatoria una GPU de alto rendimiento. La herramienta puede funcionar solo con CPU, aunque la aceleración por GPU puede hacer que el procesamiento con RVM sea mucho más rápido.
 
+[README , sistemas operativos tipo Unix(Linux , WSL , macOS)](README_sh_es.md)
+
 ## Historial de actualizaciones
 
 ### 17 de septiembre de 2026
