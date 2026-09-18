@@ -13,6 +13,8 @@ R800ZZ RVM Tools は、通常の動画ファイルを背景透過に適した動
 
 高性能GPUは必須ではありません。CPUだけでも実行できますが、GPUアクセラレーションを使用するとRVM処理を大幅に高速化できます。
 
+[README , UnixライクOS(Linux , WSL , macOS)](README_sh_ja.md)
+
 ## 更新履歴
 
 ### 2026年9月17日
