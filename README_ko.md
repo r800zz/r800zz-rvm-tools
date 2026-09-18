@@ -23,7 +23,7 @@ R800ZZ RVM Tools는 일반 동영상 파일을 배경 투명 처리에 적합한
 * Unix 계열 운영 체제(Linux, WSL, macOS)용 Bash 스크립트를 추가했습니다.
 
 
-## 빠른 사용 안내
+## 빠른 사용 안내 (Windows)
 
 - 사전 준비: Python과 FFmpeg를 설치합니다.
 
