@@ -13,6 +13,8 @@ Two output modes are supported:
 
 A high-performance GPU is not required. The tool can run on CPU only, although GPU acceleration can make RVM processing much faster.
 
+[README , Unix like OS(Linux , WSL , macOS)](README_sh_en.md)
+
 ## Update History
 
 ### September 17, 2026
