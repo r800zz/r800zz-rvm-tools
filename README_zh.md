@@ -23,7 +23,7 @@ R800ZZ RVM Tools 可将普通视频文件转换为适合背景透明显示的视
 * 添加适用于类 Unix 操作系统（Linux、WSL、macOS）的 Bash 脚本。
 
 
-## 快速使用说明
+## 快速使用说明 (Windows)
 
 - 前提条件：安装 Python 和 FFmpeg。
 
