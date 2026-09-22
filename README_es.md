@@ -2,6 +2,8 @@
 
 [English](README.md) | [Русский](README_ru.md) | [Español](README_es.md) | [ภาษาไทย](README_th.md) | [中文](README_zh.md) | [한국어](README_ko.md) | [日本語](README_ja.md)
 
+Si utiliza Windows y una GPU NVIDIA, es mejor usar [r800zzXRdlnaServer for Windows+NVIDIA GPU](https://github.com/r800zz/r800zzxrdlnaserver/blob/main/README_es.md).
+
 R800ZZ RVM Tools convierte archivos de vídeo normales en vídeos adecuados para usar transparencia de fondo.
 
 Utiliza **Robust Video Matting (RVM)** para extraer el primer plano de personas y **FFmpeg** para decodificar y codificar vídeo.
