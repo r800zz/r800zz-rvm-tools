@@ -2,6 +2,8 @@
 
 [English](README.md) | [Русский](README_ru.md) | [Español](README_es.md) | [ภาษาไทย](README_th.md) | [中文](README_zh.md) | [한국어](README_ko.md) | [日本語](README_ja.md)
 
+如果您使用 Windows 和 NVIDIA GPU，建议使用 [r800zzXRdlnaServer for Windows+NVIDIA GPU](https://github.com/r800zz/r800zzxrdlnaserver/blob/main/README_zh.md)。
+
 R800ZZ RVM Tools 可将普通视频文件转换为适合背景透明显示的视频。
 
 它使用 **Robust Video Matting (RVM)** 提取人物前景，并使用 **FFmpeg** 进行视频解码和编码。
