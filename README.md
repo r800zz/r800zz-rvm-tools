@@ -2,6 +2,8 @@
 
 [English](README.md) | [Русский](README_ru.md) | [Español](README_es.md) | [ภาษาไทย](README_th.md) | [中文](README_zh.md) | [한국어](README_ko.md) | [日本語](README_ja.md)
 
+If you use Windows and an NVIDIA GPU, [r800zzXRdlnaServer for Windows+NVIDIA GPU](https://github.com/r800zz/r800zzxrdlnaserver/blob/main/README.md) is a better choice.
+
 R800ZZ RVM Tools converts ordinary video files into videos suitable for background transparency.
 
 It uses **Robust Video Matting (RVM)** for human foreground extraction and **FFmpeg** for video decoding and encoding.
