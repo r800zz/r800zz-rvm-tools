@@ -2,6 +2,8 @@
 
 [English](README.md) | [Русский](README_ru.md) | [Español](README_es.md) | [ภาษาไทย](README_th.md) | [中文](README_zh.md) | [한국어](README_ko.md) | [日本語](README_ja.md)
 
+หากคุณใช้ Windows และ GPU ของ NVIDIA ขอแนะนำให้ใช้ [r800zzXRdlnaServer for Windows+NVIDIA GPU](https://github.com/r800zz/r800zzxrdlnaserver/blob/main/README_th.md)
+
 R800ZZ RVM Tools ใช้แปลงไฟล์วิดีโอทั่วไปให้เป็นวิดีโอที่เหมาะสำหรับการทำพื้นหลังโปร่งใส
 
 เครื่องมือนี้ใช้ **Robust Video Matting (RVM)** สำหรับแยกบุคคลออกจากพื้นหลัง และใช้ **FFmpeg** สำหรับถอดรหัสและเข้ารหัสวิดีโอ
