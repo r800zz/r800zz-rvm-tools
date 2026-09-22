@@ -2,6 +2,8 @@
 
 [English](README.md) | [Русский](README_ru.md) | [Español](README_es.md) | [ภาษาไทย](README_th.md) | [中文](README_zh.md) | [한국어](README_ko.md) | [日本語](README_ja.md)
 
+Windows와 NVIDIA GPU를 사용한다면 [r800zzXRdlnaServer for Windows+NVIDIA GPU](https://github.com/r800zz/r800zzxrdlnaserver/blob/main/README_ko.md)를 사용하는 것이 더 좋습니다.
+
 R800ZZ RVM Tools는 일반 동영상 파일을 배경 투명 처리에 적합한 동영상으로 변환하는 도구입니다.
 
 사람 전경 추출에는 **Robust Video Matting (RVM)**을 사용하고, 동영상 디코딩과 인코딩에는 **FFmpeg**를 사용합니다.
