@@ -2,6 +2,8 @@
 
 [English](README.md) | [Русский](README_ru.md) | [Español](README_es.md) | [ภาษาไทย](README_th.md) | [中文](README_zh.md) | [한국어](README_ko.md) | [日本語](README_ja.md)
 
+WindowsとNVIDIA GPUを使用している場合は、[r800zzXRdlnaServer for Windows+NVIDIA GPU](https://github.com/r800zz/r800zzxrdlnaserver/blob/main/README_ja.md)のほうがおすすめです。
+
 R800ZZ RVM Tools は、通常の動画ファイルを背景透過に適した動画へ変換するツールです。
 
 人物の前景抽出には **Robust Video Matting (RVM)**、動画のデコードとエンコードには **FFmpeg** を使用します。
