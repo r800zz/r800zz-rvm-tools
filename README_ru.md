@@ -63,7 +63,7 @@ aaa_RVM_Green.mp4
 Примеры:
 
 - [R800ZZbrowser для PICO/Meta](https://vr180g.com/browser/browser.php?l=ru)
-- [r800zzvrplayer для PICO 4 Ultra/PICO4](https://vr180g.com/pico/vrplayer.php?l=ru)
+- [r800zzvrplayer для PICO/Meta](https://vr180g.com/pico/vrplayer.php?l=ru)
 
 Преобразование с зелёным фоном обычно значительно быстрее, чем преобразование в WebM VP9 Alpha.
 
@@ -97,11 +97,11 @@ VP9 — открытый видеокодек проекта WebM, а WebM по�
 Примеры VR-плееров с функцией chroma key для MP4 с зелёным фоном:
 
 - [R800ZZbrowser для PICO/Meta](https://vr180g.com/browser/browser.php?l=ru)
-- [r800zzvrplayer для PICO 4 Ultra/PICO4](https://vr180g.com/pico/vrplayer.php?l=ru)
+- [r800zzvrplayer для PICO/Meta](https://vr180g.com/pico/vrplayer.php?l=ru)
 
 Для WebM VP9 Alpha подтверждён следующий VR-плеер:
 
-- **[r800zzvrplayer 0.5 или новее](https://vr180g.com/pico/vrplayer.php?l=ru)**
+- **[r800zzvrplayer 0.6 или новее](https://vr180g.com/pico/vrplayer.php?l=ru)**
 
 На момент написания мне не удалось подтвердить другой VR-видеоплеер, который напрямую воспроизводит WebM VP9 и использует его альфа-канал как прозрачность в VR.
 
