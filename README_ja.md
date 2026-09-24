@@ -62,7 +62,7 @@ aaa_RVM_Green.mp4
 例：
 
 - [PICO/Meta向け R800ZZbrowser](https://vr180g.com/browser/browser.php?l=jp)
-- [PICO 4 Ultra/PICO4向け r800zzvrplayer](https://vr180g.com/pico/vrplayer.php?l=jp)
+- [PICO/Meta向け r800zzvrplayer](https://vr180g.com/pico/vrplayer.php?l=jp)
 
 緑背景への変換は通常、WebM VP9 Alphaへの変換よりかなり高速です。
 
@@ -96,11 +96,11 @@ VP9はWebM Projectのオープンな動画コーデックで、WebMはアルフ�
 緑背景MP4について、クロマキー機能を持つVRプレイヤーの例：
 
 - [PICO/Meta向け R800ZZbrowser](https://vr180g.com/browser/browser.php?l=jp)
-- [PICO 4 Ultra/PICO4向け r800zzvrplayer](https://vr180g.com/pico/vrplayer.php?l=jp)
+- [PICO/Meta向け r800zzvrplayer](https://vr180g.com/pico/vrplayer.php?l=jp)
 
 WebM VP9 Alphaについて、私が動作を確認しているVRプレイヤーは次のものです。
 
-- **[r800zzvrplayer 0.5以降](https://vr180g.com/pico/vrplayer.php?l=jp)**
+- **[r800zzvrplayer 0.6以降](https://vr180g.com/pico/vrplayer.php?l=jp)**
 
 執筆時点では、WebM VP9動画のアルファチャンネルをVR透過として直接再生する別のVR動画プレイヤーを確認できていません。
 
