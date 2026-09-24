@@ -62,7 +62,7 @@ aaa_RVM_Green.mp4
 ตัวอย่าง:
 
 - [R800ZZbrowser สำหรับ PICO/Meta](https://vr180g.com/browser/browser.php?l=th)
-- [r800zzvrplayer สำหรับ PICO 4 Ultra/PICO4](https://vr180g.com/pico/vrplayer.php?l=th)
+- [r800zzvrplayer สำหรับ PICO/Meta](https://vr180g.com/pico/vrplayer.php?l=th)
 
 โดยทั่วไป การแปลงเป็นพื้นหลังสีเขียวจะเร็วกว่าการแปลงเป็น WebM VP9 Alpha มาก
 
@@ -96,11 +96,11 @@ VP9 เป็นวิดีโอโคเดกแบบเปิดจาก 
 สำหรับ MP4 พื้นหลังสีเขียว ตัวอย่างโปรแกรมเล่น VR ที่มีฟังก์ชัน chroma key ได้แก่:
 
 - [R800ZZbrowser สำหรับ PICO/Meta](https://vr180g.com/browser/browser.php?l=th)
-- [r800zzvrplayer สำหรับ PICO 4 Ultra/PICO4](https://vr180g.com/pico/vrplayer.php?l=th)
+- [r800zzvrplayer สำหรับ PICO/Meta](https://vr180g.com/pico/vrplayer.php?l=th)
 
 สำหรับ WebM VP9 Alpha โปรแกรมเล่น VR ที่ผมยืนยันการทำงานแล้วคือ:
 
-- **[r800zzvrplayer 0.5 หรือใหม่กว่า](https://vr180g.com/pico/vrplayer.php?l=th)**
+- **[r800zzvrplayer 0.6 หรือใหม่กว่า](https://vr180g.com/pico/vrplayer.php?l=th)**
 
 ณ เวลาที่เขียนเอกสารนี้ ผมยังไม่พบโปรแกรมเล่นวิดีโอ VR อื่นที่เล่นวิดีโอ WebM VP9 และใช้ช่องอัลฟาโดยตรงเป็นความโปร่งใสใน VR
 
