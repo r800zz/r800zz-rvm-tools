@@ -62,7 +62,7 @@ Este modo está pensado para reproductores de vídeo VR compatibles con transpar
 Ejemplos:
 
 - [R800ZZbrowser para PICO/Meta](https://vr180g.com/browser/browser.php?l=es)
-- [r800zzvrplayer para PICO 4 Ultra/PICO4](https://vr180g.com/pico/vrplayer.php?l=es)
+- [r800zzvrplayer para PICO/Meta](https://vr180g.com/pico/vrplayer.php?l=es)
 
 La conversión a fondo verde suele ser mucho más rápida que la conversión a WebM VP9 Alpha.
 
@@ -96,11 +96,11 @@ Actualmente, la salida WebM VP9 Alpha creada por esta herramienta se codifica co
 Para MP4 con fondo verde, algunos ejemplos de reproductores VR con función de chroma key son:
 
 - [R800ZZbrowser para PICO/Meta](https://vr180g.com/browser/browser.php?l=es)
-- [r800zzvrplayer para PICO 4 Ultra/PICO4](https://vr180g.com/pico/vrplayer.php?l=es)
+- [r800zzvrplayer para PICO/Meta](https://vr180g.com/pico/vrplayer.php?l=es)
 
 Para WebM VP9 Alpha, el reproductor VR que he confirmado es:
 
-- **[r800zzvrplayer 0.5 o posterior](https://vr180g.com/pico/vrplayer.php?l=es)**
+- **[r800zzvrplayer 0.6 o posterior](https://vr180g.com/pico/vrplayer.php?l=es)**
 
 En el momento de escribir esto, no he podido confirmar ningún otro reproductor de vídeo VR que reproduzca directamente vídeo WebM VP9 utilizando su canal alfa como transparencia VR.
 
