@@ -2,7 +2,7 @@
 
 [English](README.md) | [Русский](README_ru.md) | [Español](README_es.md) | [ภาษาไทย](README_th.md) | [中文](README_zh.md) | [한국어](README_ko.md) | [日本語](README_ja.md)
 
-Si utiliza Windows, [r800zzXRdlnaServer for Windows](https://github.com/r800zz/r800zzxrdlnaserver/blob/main/README.md) es una mejor opción.
+Si utiliza Windows, [r800zzXRdlnaServer for Windows](https://github.com/r800zz/r800zzxrdlnaserver/blob/main/README_es.md) es una mejor opción.
 
 R800ZZ RVM Tools convierte archivos de vídeo normales en vídeos adecuados para usar transparencia de fondo.
 
