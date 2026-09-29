@@ -2,7 +2,7 @@
 
 [English](README.md) | [Русский](README_ru.md) | [Español](README_es.md) | [ภาษาไทย](README_th.md) | [中文](README_zh.md) | [한국어](README_ko.md) | [日本語](README_ja.md)
 
-Если вы используете Windows и графический процессор NVIDIA, лучше выбрать [r800zzXRdlnaServer for Windows+NVIDIA GPU](https://github.com/r800zz/r800zzxrdlnaserver/blob/main/README_ru.md).
+Если вы используете Windows, лучше выбрать [r800zzXRdlnaServer for Windows](https://github.com/r800zz/r800zzxrdlnaserver/blob/main/README.md).
 
 R800ZZ RVM Tools преобразует обычные видеофайлы в видео, подходящие для прозрачного фона.
 
